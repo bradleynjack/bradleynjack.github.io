@@ -13,7 +13,7 @@ My name is Dr. Bradley N. Jack and I'm a Senior Lecturer and ARC DECRA Research 
 
 Research
 ======
-My research is in the field of cognitive psychology and neuroscience, and I am especially interested in how neural processes give rise to inner experiences, such as consciousness, inner speech, and sense of agency in the healthy, developing, and diseased brain. To investigate this, I combine behavioural and electrophysiological techniques, advanced signal analyses, computational modelling, and brain-computer interfaces.
+My research is in the field of cognitive neuroscience, and I am especially interested in how neural processes give rise to inner experiences, such as consciousness, inner speech, and sense of agency in the healthy, developing, and diseased brain. To investigate this, I combine behavioural and electrophysiological techniques, advanced signal analyses, computational modelling, and brain-computer interfaces.
 
 Teaching
 ======
