@@ -22,11 +22,11 @@ repository               : "bradleynjack/bradleynjack.github.io"
 author:
   # Biographic information
   avatar           : "Bradley Jack Portrait.png"
-  name             : # "Your Sidebar Name"
+  name             : # "Dr. Bradley N. Jack"
   pronouns         : # example: "she/her"  
   bio              : "Cognitive Neuroscientist"
   location         : "Canberra, Australia"
-  employer         : "The Australian National University"
+  employer         : "Australian National University"
   uri              : # URL
   email            : # "none@example.org" 
 
