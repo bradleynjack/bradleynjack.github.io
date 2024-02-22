@@ -1,10 +1,8 @@
 ---
-permalink: /publications/
+layout: archive
 title: "Publications"
+permalink: /publications/
 author_profile: true
-redirect_from: 
-  - /publications/
-  - /publications.html
 ---
 
 <i>You may click on the links below to access the pdf versions of these papers. Your click on any of the links constitutes your request to me for a personal copy of the linked article, and my delivery of a personal copy. Any other use is prohibited.</i>
