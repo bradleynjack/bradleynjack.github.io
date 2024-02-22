@@ -21,4 +21,4 @@ I teach a Special Topics in Psychology course called "An introduction to the eve
 
 Supervision
 ======
-I'm always looking for PhD and Honours students to supervise for their research theses, and I'm always interested in meeting undergraduate students who would like to conduct a research project in my laboratory. If you're interested in having me as your supervisor, please contact me.
+I'm always interested in meeting with PhD, Honours, or undergraduate students who would like to conduct a research project in my laboratory. If you're interested in having me as your supervisor, please contact me.
