@@ -7,7 +7,7 @@ author_profile: true
 
 <i>You may click on the links below to access the pdf versions of these papers. Your click on any of the links constitutes your request to me for a personal copy of the linked article, and my delivery of a personal copy. Any other use is prohibited.</i>
 
-Peer-Reviewed Journal Articles:
+Peer-Reviewed Journal Articles
 ======
 
 * Chung, L. K.-H., <b>Jack, B. N.</b>, Griffiths, O., Pearson, D., Luque, D., Harris, A. W. F., Spencer, K. M., Le Pelley, M. E., So, S. H.-W., & Whitford, T. J. (2023). Neurophysiological evidence of motor preparation in inner speech and the effect of content predictability. <i>Cerebral Cortex</i>, <i>33</i>, 11556–11569. <a href="http:bradleynjack.github.io/files/10.1093_cercor_bhad389.pdf"> pdf</a>
