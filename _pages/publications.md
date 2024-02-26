@@ -69,7 +69,7 @@ Peer-Reviewed Journal Articles
 PsyArXiv Preprints
 ======
 
-* Ganis, G., Schofield, T., <b>Jack, B. N.</b>, Greenwood, L.-M., Hinojosa, J. A., Rodriguez-Gómez, P., Zabelina, D. L., Kane, S., Hubert, K., Isbell, E., Mushtaq, F., & Pavlov, Y. G. (2023). The contribution of stimulus frequency and attention to the N2 and P3 in Go/Nogo: A multilab replication and new analyses. <i>PsyArXiv</i>. doi: <a href="https://osf.io/preprints/psyarxiv/nyj3f"> 10.31234/osf.io/nyj3f</a>.
+* Ganis, G., Schofield, T., <b>Jack, B. N.</b>, Greenwood, L.-M., Hinojosa, J. A., Rodriguez-Gómez, P., Zabelina, D. L., Kane, S., Hubert, K., Isbell, E., Mushtaq, F., & Pavlov, Y. G. (2024). The contribution of stimulus frequency and attention to the N2 and P3 in Go/Nogo: A multilab replication and new analyses. <i>PsyArXiv</i>. doi: <a href="https://osf.io/preprints/psyarxiv/nyj3f"> 10.31234/osf.io/nyj3f</a>.
 
 * Ruzzoli, M., Cuello, M. T., Molinaro, N., Benwell, C. S. Y., Berkowitz, D. H., Brignani, D., Falciati, L., Greenwood, L.-M., Harris, A. M., <b>Jack, B. N.</b>, Keitel, C., Kopčanová, M., Madan, C. R., Mathewson, K., Mishra, S., Morucci, P., Myers, N., Nannetti, F., Nara, S., Pérez-Navarro, J., Ro, T., Schaworonkow, N., Snyder, J. S., Soto-Faraco, S., Srinivasan, N., Trübutschek, D., Ajmeria, U., Zazio, A., Mushtaq, F., Pavlov, Y. G., & Veniero, D. (2023). An #EEGManyLabs study to test the role of the alpha phase on visual perception: A replication and new evidence. <i>PsyArXiv</i>. doi: <a href="https://osf.io/preprints/psyarxiv/3dhpx"> 10.31234/osf.io/3dhpx</a>.
 
