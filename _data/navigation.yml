@@ -1,10 +1,13 @@
 # main links links
 main:
+  - title: "Jack Lab"
+    url: "https://www.google.com"
+    
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: "https://www.google.com" # /talks/  
+#  - title: "Talks"
+#    url: /talks/  
 
 #  - title: "Teaching"
 #    url: /teaching/    
