@@ -2,7 +2,6 @@
 main:
   - title: "Jack Lab"
     url: /jacklab/
-    # "https://bradleynjack.github.io/jacklab/"
     
   - title: "Publications"
     url: /publications/
