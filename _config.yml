@@ -21,7 +21,7 @@ repository               : "bradleynjack/bradleynjack.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Bradley Jack Portrait.png"
+  avatar           : "Bradley Jack Portrait - 500x500.png"
   name             : "Dr. Bradley N. Jack"
   pronouns         : # example: "she/her"  
   bio              : "Cognitive Neuroscientist"
