@@ -66,8 +66,10 @@ Peer-Reviewed Journal Articles
 
 * <b>Jack, B. N.</b> (2012). Binocular rivalry for beginners. <i>i-Perception</i>, <i>3</i>, 503–504. <a href="http:bradleynjack.github.io/files/10.1068_i003ir.pdf"> pdf</a>
 
-PsyArXiv Preprints
+PsyArXiv/bioRxiv Preprints
 ======
+
+* Hutchinson, B. T., <b>Jack, B. N.</b>, Pammer, K., Canseco-Gonzalez, E., & Pitts, M. (2024). No electrophysiological evidence for semantic processing during inattentional blindness. <i>bioRxiv</i>. doi: <a href="https://www.biorxiv.org/content/10.1101/2024.05.31.596114v1"> 10.1101/2024.05.31.596114</a>.
 
 * Ganis, G., Schofield, T., <b>Jack, B. N.</b>, Greenwood, L.-M., Hinojosa, J. A., Rodriguez-Gómez, P., Zabelina, D. L., Kane, S., Hubert, K., Isbell, E., Mushtaq, F., & Pavlov, Y. G. (2024). The contribution of stimulus frequency and attention to the N2 and P3 in Go/Nogo: A multilab replication and new analyses. <i>PsyArXiv</i>. doi: <a href="https://osf.io/preprints/psyarxiv/nyj3f"> 10.31234/osf.io/nyj3f</a>.
 
