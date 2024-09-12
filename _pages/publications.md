@@ -10,6 +10,8 @@ author_profile: true
 Peer-Reviewed Journal Articles
 ======
 
+* Hutchinson, B. T., <b>Jack, B. N.</b>, Pammer, K., Canseco-Gonzalez, E., & Pitts, M. (2024). No electrophysiological evidence for semantic processing during inattentional blindness. <i>NeuroImage</i>, <i>299</i>, 120799: 1-15. <a href="http:bradleynjack.github.io/files/10.1016_j.neuroimage.2024.120799.pdf"> pdf</a>
+
 * Chung, L. K.-H., <b>Jack, B. N.</b>, Griffiths, O., Pearson, D., Luque, D., Harris, A. W. F., Spencer, K. M., Le Pelley, M. E., So, S. H.-W., & Whitford, T. J. (2023). Neurophysiological evidence of motor preparation in inner speech and the effect of content predictability. <i>Cerebral Cortex</i>, <i>33</i>, 11556–11569. <a href="http:bradleynjack.github.io/files/10.1093_cercor_bhad389.pdf"> pdf</a>
 
 * Hall, L., Dawel, A., Greenwood, L.-M., Monaghan, C., Berryman, K., & <b>Jack, B. N.</b> (2023). Estimating statistical power for ERP studies using the auditory N1, Tb, and P2 components. <i>Psychophysiology</i>, <i>60</i>, e14363: 1–14. <a href="http:bradleynjack.github.io/files/10.1111_psyp.14363.pdf"> pdf</a>
@@ -68,8 +70,6 @@ Peer-Reviewed Journal Articles
 
 PsyArXiv/bioRxiv Preprints
 ======
-
-* Hutchinson, B. T., <b>Jack, B. N.</b>, Pammer, K., Canseco-Gonzalez, E., & Pitts, M. (2024). No electrophysiological evidence for semantic processing during inattentional blindness. <i>bioRxiv</i>. doi: <a href="https://www.biorxiv.org/content/10.1101/2024.05.31.596114v1"> 10.1101/2024.05.31.596114</a>.
 
 * Ganis, G., Schofield, T., <b>Jack, B. N.</b>, Greenwood, L.-M., Hinojosa, J. A., Rodriguez-Gómez, P., Zabelina, D. L., Kane, S., Hubert, K., Isbell, E., Mushtaq, F., & Pavlov, Y. G. (2024). The contribution of stimulus frequency and attention to the N2 and P3 in Go/Nogo: A multilab replication and new analyses. <i>PsyArXiv</i>. doi: <a href="https://osf.io/preprints/psyarxiv/nyj3f"> 10.31234/osf.io/nyj3f</a>.
 
