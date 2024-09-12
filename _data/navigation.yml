@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Jack Lab"
-    url: /jacklab/
+#  - title: "Jack Lab"
+#    url: /jacklab/
     
   - title: "Publications"
     url: /publications/
