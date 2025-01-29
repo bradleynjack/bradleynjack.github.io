@@ -12,7 +12,7 @@ Peer-Reviewed Journal Articles
 
 * Whitford, T. J., Spencer, K. M., Godwin, M., Hirano, Y., Chung, L. K.-H., Vodovozov, W., Griffiths, O., Harris, A. W. F., Le Pelley, M. E., & <b>Jack, B. N.</b> (In Press). Gamma and theta/alpha-band oscillations in the electroencephalogram distinguish the content of inner speech. <i>eNeuro</i>.
 
-* Paul, K., Angus, D. J., Bublatzky, F., Dieterich, R., Endrass, T., Greenwood, L.-M., Hajcak, G., <b>Jack, B. N.</b>, Korinth, S. P., Kroczek, L. O. H., Lucero, B., Mundorf, A., Nolden, S., Peterburs, J., Pfabigan, D. M., Schettino, A., Shing, Y. L., Turan, G., van der Molen, M. J. W., Wieser, M. J., Willscheid, N., Mushtaq, F., Pavlov, Y. G., & Pourtois, G. (In Press). Revisiting the electrophysiological correlates of valence and expectancy in reward processing: A multi-lab replication. <i>Cortex</i>.
+* Paul, K., Angus, D. J., Bublatzky, F., Dieterich, R., Endrass, T., Greenwood, L.-M., Hajcak, G., <b>Jack, B. N.</b>, Korinth, S. P., Kroczek, L. O. H., Lucero, B., Mundorf, A., Nolden, S., Peterburs, J., Pfabigan, D. M., Schettino, A., Shing, Y. L., Turan, G., van der Molen, M. J. W., Wieser, M. J., Willscheid, N., Mushtaq, F., Pavlov, Y. G., & Pourtois, G. (2025). Revisiting the electrophysiological correlates of valence and expectancy in reward processing: A multi-lab replication. <i>Cortex</i>, <i>184</i>, 150-171. <a href="http:bradleynjack.github.io/files/10.1016j_cortex.2024.12.017.pdf"> pdf</a>
 
 * Hutchinson, B. T., <b>Jack, B. N.</b>, Pammer, K., Canseco-Gonzalez, E., & Pitts, M. (2024). No electrophysiological evidence for semantic processing during inattentional blindness. <i>NeuroImage</i>, <i>299</i>, 120799: 1-15. <a href="http:bradleynjack.github.io/files/10.1016_j.neuroimage.2024.120799.pdf"> pdf</a>
 
