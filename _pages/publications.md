@@ -10,11 +10,13 @@ author_profile: true
 Peer-Reviewed Journal Articles
 ======
 
-* Whitford, T. J., Spencer, K. M., Godwin, M., Hirano, Y., Chung, L. K.-H., Vodovozov, W., Griffiths, O., Harris, A. W. F., Le Pelley, M. E., & <b>Jack, B. N.</b> (In Press). Gamma and theta/alpha-band oscillations in the electroencephalogram distinguish the content of inner speech. <i>eNeuro</i>.
+* Berryman, K., Whitford, T. J., Le Pelley, M. E., & <b>Jack, B. N.</b> (In Press). Do corollary discharges contain information about the volume of inner speech? An ERP study. <i>Journal of Cognitive Neuroscience</i>.
 
-* Paul, K., Angus, D. J., Bublatzky, F., Dieterich, R., Endrass, T., Greenwood, L.-M., Hajcak, G., <b>Jack, B. N.</b>, Korinth, S. P., Kroczek, L. O. H., Lucero, B., Mundorf, A., Nolden, S., Peterburs, J., Pfabigan, D. M., Schettino, A., Shing, Y. L., Turan, G., van der Molen, M. J. W., Wieser, M. J., Willscheid, N., Mushtaq, F., Pavlov, Y. G., & Pourtois, G. (2025). Revisiting the electrophysiological correlates of valence and expectancy in reward processing: A multi-lab replication. <i>Cortex</i>, <i>184</i>, 150-171. <a href="http:bradleynjack.github.io/files/10.1016j_cortex.2024.12.017.pdf"> pdf</a>
+* Whitford, T. J., Spencer, K. M., Godwin, M., Hirano, Y., Chung, L. K.-H., Vodovozov, W., Griffiths, O., Harris, A. W. F., Le Pelley, M. E., & <b>Jack, B. N.</b> (2025). Gamma and theta/alpha-band oscillations in the electroencephalogram distinguish the content of inner speech. <i>eNeuro</i>, <i>12</i>, 297: 1–13. <a href="http:bradleynjack.github.io/files/10.1523_eneuro.0297-24.2025.pdf"> pdf</a>
 
-* Hutchinson, B. T., <b>Jack, B. N.</b>, Pammer, K., Canseco-Gonzalez, E., & Pitts, M. (2024). No electrophysiological evidence for semantic processing during inattentional blindness. <i>NeuroImage</i>, <i>299</i>, 120799: 1-15. <a href="http:bradleynjack.github.io/files/10.1016_j.neuroimage.2024.120799.pdf"> pdf</a>
+* Paul, K., Angus, D. J., Bublatzky, F., Dieterich, R., Endrass, T., Greenwood, L.-M., Hajcak, G., <b>Jack, B. N.</b>, Korinth, S. P., Kroczek, L. O. H., Lucero, B., Mundorf, A., Nolden, S., Peterburs, J., Pfabigan, D. M., Schettino, A., Shing, Y. L., Turan, G., van der Molen, M. J. W., Wieser, M. J., Willscheid, N., Mushtaq, F., Pavlov, Y. G., & Pourtois, G. (2025). Revisiting the electrophysiological correlates of valence and expectancy in reward processing: A multi-lab replication. <i>Cortex</i>, <i>184</i>, 150–171. <a href="http:bradleynjack.github.io/files/10.1016j_cortex.2024.12.017.pdf"> pdf</a>
+
+* Hutchinson, B. T., <b>Jack, B. N.</b>, Pammer, K., Canseco-Gonzalez, E., & Pitts, M. (2024). No electrophysiological evidence for semantic processing during inattentional blindness. <i>NeuroImage</i>, <i>299</i>, 120799: 1–15. <a href="http:bradleynjack.github.io/files/10.1016_j.neuroimage.2024.120799.pdf"> pdf</a>
 
 * Chung, L. K.-H., <b>Jack, B. N.</b>, Griffiths, O., Pearson, D., Luque, D., Harris, A. W. F., Spencer, K. M., Le Pelley, M. E., So, S. H.-W., & Whitford, T. J. (2023). Neurophysiological evidence of motor preparation in inner speech and the effect of content predictability. <i>Cerebral Cortex</i>, <i>33</i>, 11556–11569. <a href="http:bradleynjack.github.io/files/10.1093_cercor_bhad389.pdf"> pdf</a>
 
