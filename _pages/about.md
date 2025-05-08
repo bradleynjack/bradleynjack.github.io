@@ -10,7 +10,7 @@ redirect_from:
 Welcome
 ======
 
-My name is Dr. Bradley N. Jack. I'm a Senior Lecturer, ARC DECRA Research Fellow, and Head of the Jack Lab in the Research School of Psychology at the Australian National University. I received my PhD from Southern Cross University and I received my postdoctoral training from UNSW Sydney.
+My name is Dr. Bradley N. Jack. I'm a Senior Lecturer, ARC DECRA Research Fellow, ACT Young Tall Poppy of the Year, and Head of the Jack Lab in the Research School of Psychology at the Australian National University. I received my PhD from Southern Cross University and I received my postdoctoral training from UNSW Sydney.
 
 Research
 ======
