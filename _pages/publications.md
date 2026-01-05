@@ -10,11 +10,17 @@ author_profile: true
 Peer-Reviewed Journal Articles
 ======
 
-* Berryman, K., Whitford, T. J., Le Pelley, M. E., & <b>Jack, B. N.</b> (In Press). Do corollary discharges contain information about the volume of inner speech? An ERP study. <i>Journal of Cognitive Neuroscience</i>.
+* Chung, L. K.-H., Whitford, T. J., Griffiths, O., <b>Jack, B. N.</b>, Le Pelley, M. E., Spencer, K., Barreiros, A. R., Harrison, A., Han, N., Libesman, S., Pearson, D., Elijah, R., Godwin, M., Haroutonian, C., Chan, S., Chong, G. H. C., Lau, G., Wong, Y.-C., Wong, J., Ford, J., Mathalon, D., So, S., & Harris, A. (In Press). Neurophysiological evidence of motor preparation dysfunction during inner speech and its association with auditory verbal hallucinations in schizophrenia spectrum disorders. <i>Schizophrenia Bulletin</i>, <i>sbaf219</i>: 1–14. <a href="http:bradleynjack.github.io/files/10.1093_schbul_sbaf219.pdf"> pdf</a>
+
+* Whitford, T. J., Chung, L. K.-H., Griffiths, O., <b>Jack, B. N.</b>, Le Pelley, M. E., Spencer, K., Barreiros, A. R., Harrison, A., Han, N., Libesman, S., Pearson, D., Elijah, R., Godwin, M., Haroutonian, C., Nickerson, A. M., Chan, S., Chong, G. H. C., Lau, G., Wong, Y.-C., Wong, J., Ford, J., Mathalon, D., Harris, A., & So, S. (In Press). Corollary discharge dysfunction to inner speech and its relationship to auditory verbal hallucinations in patients with schizophrenia spectrum disorders. <i>Schizophrenia Bulletin</i>, <i>sbaf16</i>: 1–16. <a href="http:bradleynjack.github.io/files/10.1093_schbul_sbaf167.pdf"> pdf</a>
+
+* Berryman, K., Whitford, T. J., Le Pelley, M. E., & <b>Jack, B. N.</b> (2025). Do corollary discharges contain information about the volume of inner speech? An ERP study. <i>Journal of Cognitive Neuroscience</i>, 37, 1521–1534. <a href="http:bradleynjack.github.io/files/10.1162_jocn_a_02318.pdf"> pdf</a>
 
 * Whitford, T. J., Spencer, K. M., Godwin, M., Hirano, Y., Chung, L. K.-H., Vodovozov, W., Griffiths, O., Harris, A. W. F., Le Pelley, M. E., & <b>Jack, B. N.</b> (2025). Gamma and theta/alpha-band oscillations in the electroencephalogram distinguish the content of inner speech. <i>eNeuro</i>, <i>12</i>, 297: 1–13. <a href="http:bradleynjack.github.io/files/10.1523_eneuro.0297-24.2025.pdf"> pdf</a>
 
 * Paul, K., Angus, D. J., Bublatzky, F., Dieterich, R., Endrass, T., Greenwood, L.-M., Hajcak, G., <b>Jack, B. N.</b>, Korinth, S. P., Kroczek, L. O. H., Lucero, B., Mundorf, A., Nolden, S., Peterburs, J., Pfabigan, D. M., Schettino, A., Shing, Y. L., Turan, G., van der Molen, M. J. W., Wieser, M. J., Willscheid, N., Mushtaq, F., Pavlov, Y. G., & Pourtois, G. (2025). Revisiting the electrophysiological correlates of valence and expectancy in reward processing: A multi-lab replication. <i>Cortex</i>, <i>184</i>, 150–171. <a href="http:bradleynjack.github.io/files/10.1016j_cortex.2024.12.017.pdf"> pdf</a>
+
+* Barata, V. A., Lavoie, S., Gaweda, L., Li, E., Sass, L. A., Koren, D., McGorry, P. D., <b>Jack, B. N.</b>, Parnas, J., Polari, A., Allott, K., Hartmann, J. A., Krcmar, M., Rasmussen, A. R., Whitford, T. J., Wannan, C. M. J., & Nelson, B. (2025). The neurophenomenology of basic self-disturbance in early psychosis: Association with clinical outcome in an ultra-high risk sample. <i>Australasian Psychiatry</i>, <i>33</i>, 736–741. <a href="http:bradleynjack.github.io/files/10.1177_10398562251346619.pdf"> pdf</a>
 
 * Hutchinson, B. T., <b>Jack, B. N.</b>, Pammer, K., Canseco-Gonzalez, E., & Pitts, M. (2024). No electrophysiological evidence for semantic processing during inattentional blindness. <i>NeuroImage</i>, <i>299</i>, 120799: 1–15. <a href="http:bradleynjack.github.io/files/10.1016_j.neuroimage.2024.120799.pdf"> pdf</a>
 
@@ -74,8 +80,10 @@ Peer-Reviewed Journal Articles
 
 * <b>Jack, B. N.</b> (2012). Binocular rivalry for beginners. <i>i-Perception</i>, <i>3</i>, 503–504. <a href="http:bradleynjack.github.io/files/10.1068_i003ir.pdf"> pdf</a>
 
-PsyArXiv/bioRxiv Preprints
+Preprints
 ======
+
+* Cesnaite, E., Vitale, A., Pascarella, A., Vinding, M. C., Algermissen, J., Fischer, N. L., Tuomas Puoliväli, T., Claudia Gianelli, C., Charlotte R. Marshall, C. R., Darinka Trübutschek, D., Yu-Fang Yang, Y.-F., ... <b>Jack, B. N.</b> ... Nilsonne, G., & Busch, N. (2025). The EEGManyPipelines dataset: Metascientific data on 168 independent analyses of a single EEG dataset. <i>MetArXiv</i>. doi: <a href="https://osf.io/preprints/metaarxiv/c4xwg_v1"> 10.31222/osf.io/c4xwg_v1</a>.
 
 * Hutchinson, B. T., <b>Jack, B. N.</b>, Budd, A., Calabro, R., Fogarty, R., Nicholls, M. E. R., & Griffiths, O. (2024). No effect of value on the task irrelevant auditory mismatch negativity. <i>bioRxiv</i>. doi: <a href="https://www.biorxiv.org/content/10.1101/2024.11.12.623328v1.abstract"> 10.1101/2024.11.12.623328</a>.
 
