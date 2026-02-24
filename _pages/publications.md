@@ -83,7 +83,7 @@ Peer-Reviewed Journal Articles
 Preprints
 ======
 
-* Cesnaite, E., Vitale, A., Pascarella, A., Vinding, M. C., Algermissen, J., Fischer, N. L., Tuomas Puoliväli, T., Claudia Gianelli, C., Charlotte R. Marshall, C. R., Darinka Trübutschek, D., Yu-Fang Yang, Y.-F., ... <b>Jack, B. N.</b> ... Nilsonne, G., & Busch, N. (2025). The EEGManyPipelines dataset: Metascientific data on 168 independent analyses of a single EEG dataset. <i>MetArXiv</i>. doi: <a href="https://osf.io/preprints/metaarxiv/c4xwg_v1"> 10.31222/osf.io/c4xwg_v1</a>.
+* Cesnaite, E., Vitale, A., Pascarella, A., Vinding, M. C., Algermissen, J., Fischer, N. L., Tuomas Puoliväli, T., Claudia Gianelli, C., Charlotte R. Marshall, C. R., Darinka Trübutschek, D., Yu-Fang Yang, Y.-F., ... <b>Jack, B. N.</b> ... Nilsonne, G., & Busch, N. (2025). The EEGManyPipelines dataset: Metascientific data on 168 independent analyses of a single EEG dataset. <i>MetaArXiv</i>. doi: <a href="https://osf.io/preprints/metaarxiv/c4xwg_v1"> 10.31222/osf.io/c4xwg_v1</a>.
 
 * Hutchinson, B. T., <b>Jack, B. N.</b>, Budd, A., Calabro, R., Fogarty, R., Nicholls, M. E. R., & Griffiths, O. (2024). No effect of value on the task irrelevant auditory mismatch negativity. <i>bioRxiv</i>. doi: <a href="https://www.biorxiv.org/content/10.1101/2024.11.12.623328v1.abstract"> 10.1101/2024.11.12.623328</a>.
 
